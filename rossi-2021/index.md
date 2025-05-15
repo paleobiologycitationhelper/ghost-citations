@@ -1,4 +1,4 @@
-# Ghost Citation Correction: Rossi et al. (2021b)
+# Ghost Citation Correction: Rossi et al. (2021)
 
 ## Referenced Citation (Not Real):
 **Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021.**  
