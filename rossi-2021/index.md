@@ -1,6 +1,6 @@
-# Ghost Citation Correction: Rossi et al. (2021)
+# Citation Correction: Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843.
 
-## Referenced Citation (Not Real):
+## Referenced Citation:
 **Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021.**  
 *Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution.*  
 *Nature Communications*, 12(1), p.4843.
@@ -15,7 +15,7 @@ This citation does **not correspond to any known publication** in *Nature Commun
 [https://doi.org/10.1073/pnas.1820285116](https://doi.org/10.1073/pnas.1820285116)
 
 ## Explanation:
-The ghost citation likely stems from a conflation of the real 2019 PNAS article with a mistaken memory of the journal (*Nature Communications*) and a fabricated year and page number. While the real article does explore melanosome geometry and chemistry in great detail, it does not carry the title or citation details listed above.
+This widely used incorrect citation in academic circles likely stems from a conflation of the real 2019 PNAS article by the same exact authors with a mistaken memory of the journal (*Nature Communications*) and a fabricated year and page number. While the real article does explore melanosome geometry and chemistry in great detail.
 
 This correction helps clarify citation accuracy for researchers referencing evolutionary pigment biology and fossil melanosome work.
 
