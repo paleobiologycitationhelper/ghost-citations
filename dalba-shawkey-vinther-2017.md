@@ -1,5 +1,10 @@
 # Citation Correction: D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129.
 
+# Innocent Citation: D'Alba et al. (2017)
+
+> **Frequently searched citation:**  
+> `"D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129."`
+
 ## Referenced Citation:
 **D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129.**
 
@@ -17,3 +22,7 @@ This page exists to clarify such mistakes and help correct future citation error
 ---
 
 *This entry is part of a correction initiative to improve citation reliability in scientific writing.*
+
+---
+
+> 'D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129.'
