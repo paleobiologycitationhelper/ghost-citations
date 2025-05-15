@@ -6,9 +6,9 @@
 *Nature Communications*, 12(1), p.4843.
 
 ## Note:
-This citation does **not correspond to any known publication** in *Nature Communications*. A search of CrossRef, Nature.com, and scientific databases confirms that this title, volume, page number, and combination of authors does not exist.
+This citation does not correspond to any known publication in *Nature Communications*. A search of CrossRef, Nature.com, and scientific databases confirms that this title, volume, page number, and combination of authors does not exist.
 
-## Likely Intended Citation:
+## Intended Citation:
 **Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P. (2019).**  
 *Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal internal anatomy of extinct vertebrates.*  
 *Proceedings of the National Academy of Sciences*, **116**(35), 17880–17889.  
