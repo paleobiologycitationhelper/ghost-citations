@@ -8,7 +8,7 @@
 ## Note:
 This popular citation does not correspond to any known publication. No article with this title and author list exists in *Scientific Reports* or any other academic journal. Searches in academic databases yield no results for this citation.
 
-## Obvious Intended Citation:
+## Intended Citation:
 **Field, D.J., D’Alba, L., Vinther, J., Webb, S.M., Gearty, W., & Shawkey, M.D. (2013).**  
 *Melanin concentration gradients in modern and fossil feathers.*  
 *PLOS ONE*, 8(3): e59451.  
