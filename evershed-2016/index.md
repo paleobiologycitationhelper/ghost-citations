@@ -12,7 +12,8 @@ This citation appears in literature but does not match any real publication in *
 [https://doi.org/10.1111/pala.12238]
 
 ## Explanation:
-This is a ghost citation — the title and authors are incorrectly attributed. It is often confused with the sulfurization study of McNamara, a common mistake of citation.
+The citation in question appears to be a misattributed version of paper by different authors. It is often confused with the sulfurization study of McNamara, a common mistake of citation.
+
 ---
 
 *This page is part of a scientific citation correction initiative.*
