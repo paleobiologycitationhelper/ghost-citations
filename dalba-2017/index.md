@@ -3,7 +3,7 @@
 > **Frequently searched citation:**  
 > `"D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129."`
 
-## Incorrectly Cited and Referenced:
+## Incorrectly Cited Or Referenced:
 **D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129.**
 
 ## Note:
