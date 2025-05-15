@@ -4,7 +4,7 @@
 **McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.**
 
 ## Note:
-This is a very common citation in academic works and literature reviews, but it does not correspond to any actual publication in *Nature Reviews Earth & Environment* or elsewhere. No article with this title or pagination by M.E. McNamara is indexed in Nature, Google Scholar, CrossRef, or the publisher's archives.
+This is a common citation in academic works and literature reviews, but it does not correspond to any actual publication in *Nature Reviews Earth & Environment* or elsewhere. No article with this title or pagination by M.E. McNamara is indexed in Nature, Google Scholar, CrossRef, or the publisher's archives.
 
 ## Likely Confusion:
 The mistaken reference stems from a misremembered version of the reputed paper:
