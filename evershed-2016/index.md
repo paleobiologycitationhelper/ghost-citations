@@ -1,6 +1,8 @@
-# Citation Correction: Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. *PNAS*, 113(21), pp.5616–5618.
+# Citation Correction: Evershed, R.P., 2016.
 
-## Referenced Citation (Not Real):
+"Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. PNAS, 113(21), pp.5616–5618."
+
+## Incorrectly Citated Or Referenced:
 **Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. *PNAS*, 113(21), pp.5616–5618.**
 
 ## Note:
@@ -17,3 +19,7 @@ The citation in question appears to be misattributed, corresponding to a study b
 ---
 
 *This page is part of a scientific citation correction initiative.*
+
+---
+
+'Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. PNAS, 113(21), pp.5616–5618.'
