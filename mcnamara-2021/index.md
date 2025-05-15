@@ -21,4 +21,4 @@ This correction is offered to help clarify citation accuracy in paleontological 
 
 ---
 
-*Posted as part of an initiative to correct ghost references in scientific literature.*
+*Posted as part of an initiative to correct incorrect references in scientific literature.*
