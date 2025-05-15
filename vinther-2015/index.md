@@ -1,4 +1,4 @@
-# Ghost Citation Correction: Vinther (2015)
+# Citation Correction: Vinther, 2015. A guide to the field of reconstructing coloration in fossil animals. *Palaeontologia Electronica*, 18(1), Article 18.1.1.
 
 ## Referenced Citation (Not Real):
 **Vinther, J. (2015).**  
@@ -6,7 +6,7 @@
 *Palaeontologia Electronica*, 18(1), Article 18.1.1.
 
 ## Note:
-This citation does **not correspond to any known publication**. No article with this title and author exists in *Palaeontologia Electronica* or any other academic journal. Searches in academic databases yield no results for this citation.
+This citation does not correspond to any known publication in *Palaeontologia Electronica* or any other academic journal. Searches in academic databases yield no results for this citation.
 
 ## Likely Intended Citation:
 **Vinther, J. (2015).**  
@@ -15,7 +15,7 @@ This citation does **not correspond to any known publication**. No article with 
 DOI: [10.1002/bies.201500018](https://doi.org/10.1002/bies.201500018)
 
 ## Explanation:
-The citation appears to be a misremembered or incorrect reference to the actual 2015 BioEssays article by Jakob Vinther. The real article provides a comprehensive overview of how pigments like melanin can fossilize and the implications for reconstructing the appearance and behavior of ancient organisms.
+The widespread error in citation is an innocent misremembered or incorrect reference to the actual 2015 BioEssays article by Jakob Vinther. The real article provides a comprehensive overview of how pigments like melanin can fossilize and the implications for reconstructing the appearance and behavior of ancient organisms.
 
 ---
 
