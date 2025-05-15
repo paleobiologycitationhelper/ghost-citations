@@ -1,6 +1,4 @@
-# Citation Correction: D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129.
-
-# Innocent Citation: D'Alba et al. (2017)
+# Citation Correction: D'Alba et al. (2017)
 
 > **Frequently searched citation:**  
 > `"D'Alba, L., Shawkey, M.D., and Vinther, J., 2017. Reconstruction of colour patterns in ancient feathers using optical imaging. Nature Communications, 8, p.1129."`
