@@ -18,6 +18,7 @@ The mistaken reference stems from a misremembered version of the reputed paper:
 The citation mayhave arisen from confusion between the *Trends in Ecology & Evolution* article and the name of the newer journal *Nature Reviews Earth & Environment*. While Maria E. McNamara is a leading researcher on fossil colour and melanin evolution, she has not published an article by that title or in that journal issue.
 
 This correction is offered to help clarify citation accuracy in paleontological and evolutionary colour studies.
+
 ---
 
 *Posted as part of an initiative to correct ghost references in scientific literature.*
