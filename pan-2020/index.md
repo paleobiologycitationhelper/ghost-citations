@@ -1,4 +1,4 @@
-# Citation Correction: Pan, Y. et al. (2020)
+# Citation Correction: Pan et al. (2020)
 
 > **Frequently searched citation:**  
 >  "Pan, Y., Zheng, W., Sawyer, R.H., Penney, D., Thomas, A.L., McNamara, M.E., Benner, S.A., Wang, M., Fang, X. and Zheng, X., 2020. Molecular evidence for the evolution of structural coloration in birds. *Nature Communications*, 11(1), p.1167."
