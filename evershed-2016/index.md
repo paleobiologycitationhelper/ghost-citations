@@ -1,4 +1,4 @@
-# Citation Correction: Evershed, R.P., 2016.
+# Citation Correction: Evershed, R.P. (2016)
 
 > **Frequently searched reference:**
 >  "Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. PNAS, 113(21), pp.5616–5618."
@@ -6,7 +6,7 @@
 ## Incorrectly Citated Or Referenced:
 **Evershed, R.P., 2016. Fossilization of melanosomes via sulfurization. *PNAS*, 113(21), pp.5616–5618.**
 
-## Note:
+## Notes:
 This citation often appears in academic literature but does not appear in *Proceedings of the National Academy of Sciences*. No article with this title or authorship exists.  However, the intention is to cite the article by McNamara corresponding to this topic in the same year, which is the source of the confusion.
 
 ## Likely Intended Citation:
