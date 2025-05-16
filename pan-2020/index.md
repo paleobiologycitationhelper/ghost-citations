@@ -1,9 +1,12 @@
-# Citation Correction: Pan, Y., Zheng, W., Sawyer, R.H., Penney, D., Thomas, A.L., McNamara, M.E., Benner, S.A., Wang, M., Fang, X. and Zheng, X., 2020. Molecular evidence for the evolution of structural coloration in birds. *Nature Communications*, 11(1), p.1167.
+# Citation Correction: Pan, Y. et al. (2020)
 
-## Referenced Citation (Not Real):
+> **Frequently searched citation:**  
+>  "Pan, Y., Zheng, W., Sawyer, R.H., Penney, D., Thomas, A.L., McNamara, M.E., Benner, S.A., Wang, M., Fang, X. and Zheng, X., 2020. Molecular evidence for the evolution of structural coloration in birds. *Nature Communications*, 11(1), p.1167."
+
+## Incorrectly Cited Or Referenced:
 **Pan, Y., Zheng, W., Sawyer, R.H., Penney, D., Thomas, A.L., McNamara, M.E., Benner, S.A., Wang, M., Fang, X. and Zheng, X., 2020. Molecular evidence for the evolution of structural coloration in birds. *Nature Communications*, 11(1), p.1167.**
 
-## Note:
+## Notes:
 This frequently used citation in academic studies and papers does not correspond to any publication in *Nature Communications* or elsewhere. No article with this title and author list exists in any bibliographic database, and DOI searches return no results.  The obvious intended citation is to the following paper by Vinther et al. 
 
 ## Likely Intended Citation:
@@ -19,3 +22,7 @@ The incorrect attribution to Pan et al. (2020) may have originated from confusio
 ---
 
 *Posted as part of a scientific citation correction initiative.*
+
+---
+
+'Pan, Y., Zheng, W., Sawyer, R.H., Penney, D., Thomas, A.L., McNamara, M.E., Benner, S.A., Wang, M., Fang, X. and Zheng, X., 2020. Molecular evidence for the evolution of structural coloration in birds. *Nature Communications*, 11(1), p.1167.'
