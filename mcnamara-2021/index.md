@@ -1,12 +1,12 @@
-# Citation Correction: McNamara, M.E., 2021
+# Citation Correction: McNamara, M.E. (2021)
 
 > **Frequently searched citation:**
 >  "McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515."
 
-## Referenced Citation:
+## Incorrectly Cited or Referenced:
 **McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.**
 
-## Note:
+## Notes:
 This is a common citation in academic works and literature reviews, but it does not correspond to any actual publication in *Nature Reviews Earth & Environment* or elsewhere. No article with this title or pagination by M.E. McNamara is indexed in Nature, Google Scholar, CrossRef, or the publisher's archives.
 
 ## Likely Confusion:
