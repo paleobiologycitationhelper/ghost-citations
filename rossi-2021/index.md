@@ -1,9 +1,9 @@
 # Citation Correction: Rossi et al. (2021)
 
 > **Frequently searched citation:**  
-> `"Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843."
+> "Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843."
 
-## Referenced Citation:
+## Incorrectly Cited Or Referenced:
 **Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021.**  
 *Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution.*  
 *Nature Communications*, 12(1), p.4843.
@@ -26,3 +26,6 @@ This correction helps clarify citation accuracy for researchers referencing evol
 
 *Posted as part of a scientific citation clarification project.*
 
+---
+
+'Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843.'
