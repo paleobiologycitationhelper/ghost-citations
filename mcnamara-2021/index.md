@@ -1,4 +1,5 @@
-# Citation Correction: McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.
+# Citation Correction: McNamara, M.E., 2021
+
 
 ## Referenced Citation:
 **McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.**
