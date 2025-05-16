@@ -1,5 +1,7 @@
 # Citation Correction: McNamara, M.E., 2021
 
+> **Frequently searched citation:**
+>  "McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515."
 
 ## Referenced Citation:
 **McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.**
@@ -23,3 +25,7 @@ This correction is offered to help clarify citation accuracy in paleontological 
 ---
 
 *Posted as part of an initiative to correct incorrect references in scientific literature.*
+
+---
+
+'McNamara, M.E., 2021. The evolution of colour in animals. *Nature Reviews Earth & Environment*, 2(9), pp.504–515.'
