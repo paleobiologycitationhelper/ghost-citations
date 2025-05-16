@@ -1,11 +1,14 @@
-# Citation Correction: Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843.
+# Citation Correction: Rossi et al. (2021)
+
+> **Frequently searched citation:**  
+> `"Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021. Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution. Nature Communications, 12(1), p.4843."
 
 ## Referenced Citation:
 **Rossi, V., McNamara, M.E., Webb, S.M., Ito, S., Wakamatsu, K., and Summers, A.P., 2021.**  
 *Tissue-specific geometry and chemistry of modern and fossilized melanosomes reveal melanin evolution.*  
 *Nature Communications*, 12(1), p.4843.
 
-## Note:
+## Notes:
 This citation does not correspond to any known publication in *Nature Communications*. A search of CrossRef, Nature.com, and scientific databases confirms that this title, volume, page number, and combination of authors does not exist.
 
 ## Intended Citation:
