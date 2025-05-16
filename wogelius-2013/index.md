@@ -1,11 +1,14 @@
-# Citation Correction: Wogelius, R.A., and Manning, P.L., 2013. *New insights into the preservation of melanin and pigment chemistry in fossil feathers.* Scientific Reports, 3, p.4059.
+# Citation Correction: Wogelius and Manning, 2013
 
-## Referenced Citation:
+> **Frequently searched citation:**  
+> "Wogelius, R.A., and Manning, P.L., 2013. New insights into the preservation of melanin and pigment chemistry in fossil feathers. Scientific Reports, 3, p.4059."
+
+## Incorrectly Cited Or Referenced:
 **Wogelius, R.A., and Manning, P.L., 2013.**  
 *New insights into the preservation of melanin and pigment chemistry in fossil feathers.*  
 *Scientific Reports*, 3, p.4059.
 
-## Note:
+## Notes:
 This popular citation does not correspond to any known publication. No article with this title and author list exists in *Scientific Reports* or any other academic journal. Searches in academic databases yield no results for this citation.
 
 ## Intended Citation:
@@ -20,3 +23,7 @@ The popular citation appears to be an innocent mistake, a misremembered or incor
 ---
 
 *Posted as part of a scientific citation correction initiative.*
+
+---
+
+'Wogelius, R.A., and Manning, P.L., 2013. New insights into the preservation of melanin and pigment chemistry in fossil feathers. Scientific Reports, 3, p.4059.'
