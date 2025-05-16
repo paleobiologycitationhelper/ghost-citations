@@ -1,11 +1,14 @@
-# Citation Correction: Vinther, 2015. A guide to the field of reconstructing coloration in fossil animals. *Palaeontologia Electronica*, 18(1), Article 18.1.1.
+# Citation Correction: Vinther (2015)
 
-## Referenced Citation (Not Real):
+> **Frequently searched citation:**  
+> "Vinther, J., 2015. A guide to the field of reconstructing coloration in fossil animals. Palaeontologia Electronica, 18(1), Article 18.1.1."
+
+## Incorrectly Cited Or Referenced:
 **Vinther, J. (2015).**  
 *A guide to the field of reconstructing coloration in fossil animals.*  
 *Palaeontologia Electronica*, 18(1), Article 18.1.1.
 
-## Note:
+## Notes:
 This citation does not correspond to any known publication in *Palaeontologia Electronica* or any other academic journal. Searches in academic databases yield no results for this citation.
 
 ## Likely Intended Citation:
@@ -21,3 +24,6 @@ The widespread error in citation is an innocent misremembered or incorrect refer
 
 *Posted as part of a scientific citation correction initiative.*
 
+---
+
+'Vinther, J., 2015. A guide to the field of reconstructing coloration in fossil animals. Palaeontologia Electronica, 18(1), Article 18.1.1.'
