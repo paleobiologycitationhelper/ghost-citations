@@ -1,3 +1,4 @@
+<meta name="google-site-verification" content="GskFekG2qy8T7IM11BBJrOhhh4vuix9kgju7Zf1slQs" />
 # Ghost Citation Correction Hub
 
 This page links to known miscitations that appear in academic literature. Each entry redirects to a correction with the intended, real reference.
