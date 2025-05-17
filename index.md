@@ -37,7 +37,7 @@ Each case is documented on multiple platforms to maximise discoverability and in
 
 ### 🔴 D’Alba et al. (2017)
 - [GitHub Correction Page](https://paleobiologycitationhelper.github.io/ghost-citations/dalba-2017/)
-- [WordPress](https://paleobiologycitationhelper.wordpress.com/2025/05/16/citation-clarification-dalba-et-al-2017/)
+- [WordPress]([https://paleobiologycitationhelper.wordpress.com/2025/05/16/citation-clarification-dalba-et-al-2017/](https://paleobiologycitationhelper.wordpress.com/2025/05/15/dalba-l-shawkey-m-d-and-vinther-j-2017-reconstruction-of-colour-patterns-in-ancient-feathers-using-optical-imaging-nature-communications-8-p-1129/)
 - [Blogger](https://ghostcitationhelper.blogspot.com/2025/05/citation-clarification-dalba-shawkey.html)
 - [Pastebin](https://pastebin.com/N9EZw2tH)
 
