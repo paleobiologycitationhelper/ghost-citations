@@ -45,6 +45,8 @@ To improve search engine discoverability, we also maintain mirrors:
 - [Vinther](https://pastebin.com/fJ5bb7p9)
 - [Wogelius](https://pastebin.com/5WGZJxUN)
 
+### 🔗 Notion Mirror:
+- https://www.notion.so/Citation-Correction-Index-Misattributed-References-in-Paleobiology-1f62586ee07c80c893add8425a70edd0?pvs=4
 ---
 
 📣 *Corrections provided to help researchers and examiners locate legitimate source materials.*
