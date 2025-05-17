@@ -71,7 +71,7 @@ Each case is documented on multiple platforms to maximise discoverability and in
 
 - 🔗 [WordPress Master Index](https://paleobiologycitationhelper.wordpress.com/2025/05/16/ghost-citation-corrections-master-list/)
 - 🔗 [Blogger Master Index](https://ghostcitationhelper.blogspot.com/2025/05/ghost-citation-correction-index.html)
-- 🔗 [Notion]([https://ghostcitationhelper.blogspot.com/2025/05/ghost-citation-correction-index.html](https://www.notion.so/Citation-Correction-Index-Misattributed-References-in-Paleobiology-1f62586ee07c80c893add8425a70edd0?pvs=4))
+- 🔗 [Notion](https://www.notion.so/Citation-Correction-Index-Misattributed-References-in-Paleobiology-1f62586ee07c80c893add8425a70edd0?pvs=4)
 ---
 
 _This project helps researchers and assessors identify frequently misreferenced studies in paleobiology and correct them using verified bibliographic sources._
